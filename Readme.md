@@ -13,6 +13,14 @@ I'm a highly skilled IT professional with a strong background in software develo
 - 💬 Ask me about anything related to programming, technology, or computer science in general.
 - 📫 How to reach me: [hz1778@nyu.edu](mailto:hz1778@nyu.edu)
 
+## 📈 GitHub Stats
+
+![Hai Zhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dizzyzff&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyzff&layout=compact&theme=radical)](https://github.com/dizzyzff/github-readme-stats)
+
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, PHP, C/C++, Node.js, C#
