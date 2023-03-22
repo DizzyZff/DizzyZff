@@ -1,4 +1,4 @@
-# Hi there, I'm Hai (Desmond) Zhu! 👋
+# Hi there, I'm Hai Zhu! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-hai--zhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hai-zhu-6463021a2)](https://www.linkedin.com/in/hai-zhu-6463021a2)
 [![GitHub followers](https://img.shields.io/github/followers/dizzyzff?label=Follow&style=social)](https://github.com/dizzyzff)
