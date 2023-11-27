@@ -28,17 +28,4 @@ I'm a highly skilled IT professional with a strong background in software develo
 - **Tools:** Git, SQLite3, MongoDB, Tableau, Datagrip, Agile, CI/CD, Machine Learning, Data Visualization
 - **Platforms:** Windows, Linux, macOS
 
-## 📚 Projects
-
-### [Spotify Music Genre Analysis](https://github.com/dizzyzff/spotify-music-genre-analysis)
-- Developed a neural network model using TensorFlow with a 95%+ accuracy in predicting the music genre.
-
-### [Weather App](https://github.com/dizzyzff/weather-app)
-- Designed and developed a user-friendly interface using JavaFX and OpenWeatherMap API.
-
-### [C++ Stock Simulator](https://github.com/dizzyzff/cpp-stock-simulator)
-- Developed a stock simulator in C++ that predicts stock prices using statistical analysis of historical data.
-
-### [Informational Healthcare Chatbot](https://github.com/dizzyzff/healthcare-chatbot)
-- Led the development of an informational healthcare chatbot using Python and Natural Language Processing.
 
