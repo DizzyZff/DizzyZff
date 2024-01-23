@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, PHP, C/C++, Node.js, C#
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, PHP, C/C++, C#
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, OpenCV, ReactJS, Bootstrap, jQuery, Flask, Django, Express.js, Spring Boot, .NET
 - **Tools:** Git, SQLite3, MongoDB, Tableau, Datagrip, Agile, CI/CD, Machine Learning, Data Visualization
 - **Platforms:** Windows, Linux, macOS
